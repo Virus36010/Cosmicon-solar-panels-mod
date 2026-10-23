@@ -1,1 +1,2 @@
-# Cosmicon-solar-panels-mod
+# Cosmicon-solar-panels
+mod for factorio
