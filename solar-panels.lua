@@ -70,7 +70,7 @@ data:extend({
         -- next_upgrade = "solar-panel-5",
         corpse = "solar-panel-remnants",
         dying_explosion = "solar-panel-explosion",
-        collision_box = {{-1.4, -1.4}, {1.4, 1.4}},
+        collision_box = {{-1.35, -1.35}, {1.35, 1.35}},
         selection_box = {{-1.5, -1.5}, {1.5, 1.5}},
         damaged_trigger_effect = hit_effects.entity(),
         energy_source = {
@@ -174,7 +174,7 @@ data:extend({
         -- next_upgrade = "solar-panel-5",
         corpse = "solar-panel-remnants",
         dying_explosion = "solar-panel-explosion",
-        collision_box = {{-1.4, -1.4}, {1.4, 1.4}},
+        collision_box = {{-1.35, -1.35}, {1.35, 1.35}},
         selection_box = {{-1.5, -1.5}, {1.5, 1.5}},
         damaged_trigger_effect = hit_effects.entity(),
         energy_source = {
@@ -278,7 +278,7 @@ data:extend({
         -- next_upgrade = "solar-panel-5",
         corpse = "solar-panel-remnants",
         dying_explosion = "solar-panel-explosion",
-        collision_box = {{-1.4, -1.4}, {1.4, 1.4}},
+        collision_box = {{-1.35, -1.35}, {1.35, 1.35}},
         selection_box = {{-1.5, -1.5}, {1.5, 1.5}},
         damaged_trigger_effect = hit_effects.entity(),
         energy_source = {
