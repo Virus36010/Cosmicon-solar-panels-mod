@@ -2,9 +2,9 @@
 require ("util")
 local hit_effects = require ("__base__.prototypes.entity.hit-effects")
 local item_sounds = require("__base__.prototypes.item_sounds")
-local icon = "__Cosmicon-solar-panels__/graphics/icons"
-local entity = "__Cosmicon-solar-panels__/graphics/entities"
-local technology = "__Cosmicon-solar-panels__/graphics/technology"
+local icon = "__Cosmicon-Solar-Panels__/graphics/icons"
+local entity = "__Cosmicon-Solar-Panels__/graphics/entities"
+local technology = "__Cosmicon-Solar-Panels__/graphics/technology"
 
 data:extend({
 
