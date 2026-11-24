@@ -1,4 +1,4 @@
 # Cosmicon-Solar-Panels
 mod for factorio
 
-5
+6
